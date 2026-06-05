@@ -1,7 +1,3 @@
-Got it — I’ve updated your README to include **train + evaluate + GUI** properly in a clean, professional format.
-
----
-
 # 🧠 **Brain Tumor Classification using Deep Learning**
 
 ## 📌 **Project Overview**
